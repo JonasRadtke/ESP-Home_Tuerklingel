@@ -2794,7 +2794,7 @@ design rules under a new name.</description>
 <attribute name="NAME" x="7.239" y="11.811" size="0.6096" layer="25" font="vector" rot="R270"/>
 <attribute name="VALUE" x="3.81" y="12.7" size="1.27" layer="27" rot="R270"/>
 </element>
-<element name="F1" library="resistor" package="R1210" value="" x="9.398" y="2.413" smashed="yes" rot="MR180">
+<element name="F1" library="resistor" package="R1210" value=" FSMD020-1210-R" x="9.398" y="2.413" smashed="yes" rot="MR180">
 <attribute name="NAME" x="9.017" y="0.762" size="0.6096" layer="26" font="vector" rot="MR180"/>
 <attribute name="VALUE" x="8.128" y="5.334" size="1.27" layer="28" rot="MR180"/>
 </element>
@@ -2807,7 +2807,7 @@ design rules under a new name.</description>
 <attribute name="NAME" x="2.108" y="6.985" size="0.6096" layer="25" font="vector" ratio="10" rot="R90"/>
 <attribute name="VALUE" x="2.413" y="4.948" size="1.016" layer="27" ratio="10"/>
 </element>
-<element name="OK1" library="optocoupler" package="DIL4-SMD" value="Mosfet" x="15.24" y="25.4" smashed="yes" rot="MR180">
+<element name="OK1" library="optocoupler" package="DIL4-SMD" value="G3VM41DY1" x="15.24" y="25.4" smashed="yes" rot="MR180">
 <attribute name="NAME" x="18.415" y="23.749" size="0.6096" layer="26" font="vector" ratio="10" rot="MR270"/>
 <attribute name="POPULARITY" value="0" x="15.24" y="25.4" size="1.778" layer="28" rot="MR180" display="off"/>
 <attribute name="VALUE" x="19.05" y="28.575" size="1.27" layer="28" ratio="10" rot="MR270"/>

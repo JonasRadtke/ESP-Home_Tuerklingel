@@ -9560,8 +9560,8 @@ Source: LITEON, LTV816.pdf</description>
 <part name="C3" library="rcl" deviceset="C-EU" device="C0805" value="100n"/>
 <part name="C1" library="rcl" deviceset="C-EU" device="C0805" value="0,47u"/>
 <part name="JP3" library="pinhead" deviceset="PINHD-1X5" device=""/>
-<part name="F1" library="resistor" deviceset="R-EU_" device="R1210"/>
-<part name="OK1" library="optocoupler" deviceset="LTV816" device="S" value="Mosfet"/>
+<part name="F1" library="resistor" deviceset="R-EU_" device="R1210" value=" FSMD020-1210-R"/>
+<part name="OK1" library="optocoupler" deviceset="LTV816" device="S" value="G3VM41DY1"/>
 <part name="R1" library="rcl" deviceset="R-EU_" device="R0805" value="1k"/>
 <part name="OK2" library="optocoupler" deviceset="LTV826" device="S"/>
 <part name="R4" library="rcl" deviceset="R-EU_" device="R0805" value="1k"/>
